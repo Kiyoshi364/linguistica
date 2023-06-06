@@ -29,8 +29,37 @@ e de uma língua indígena: <nome-lingua>
 Essa língua é falada na região
 entre Peru <confirmar> e o estado do Acre.
 
-<Alunos intercâmbio>
+No prédio de Letras existe um curso de português
+que prepara alunos extrangeiros
+participantes do PEC-G
+(Programa Estudante-Convênio de Graduação),
+que são, principalmente, de origem africana,
+para realizar uma prova da Celpe-Bras
+(Certificado de Proficiência em Língua Portuguesa para Estrangueiros).
+Caso esses alunos passem a prova
+recebem a oportunidade de
+realizar um curso superior aqui no Brasil.
+Entre si, dependendo do país que vieram,
+falam sua língua nacional
+(Francês, Espanhol, Alemão ou outras),
+mas também são capazes de falar
+línguas nativas locais
+(as quais geralmente mudam para cada província).
+E claro, com outras pessoas e, as vezes entre si,
+falam português.
+
+Ficou faltando achar um grupo
+que falasse uma língua afro-brasileira
+aqui dentro do prédio de Letras,
+mas já foi incrível sentir
+que realmente existem outras línguas faladas
+aqui no Brasil.
 
 Referências:
-Uma viagem com a linguística um panorama para iniciantes
+- Uma viagem com a linguística um panorama para iniciantes
 (Seção 4.8.1 e Capítulo 5)
+- portal.letras.ufrj.br/gradua%C3%A7%C3%A3o/coord-de-rel-internacionais/atividades-da-cri.html
+- Conversas com esses grupos:
+  - alunos de Letras-LIBRAS (noite)
+  - o aluno que apresentou na SIAc: <TODO>
+  - alunos do PEC-G (o grupo interagido era do Gabão)
