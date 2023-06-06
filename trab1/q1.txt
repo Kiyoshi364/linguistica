@@ -4,8 +4,9 @@ apenas uma língua é falada.
 O Brasil não é um país monolíngue.
 Observando a literatura, mais específicamente
 o livro texto da disciplina,
-pode-se perceber que existem pelo menos outros 4
-grandes classes de línguas faladas aqui no Brasil:
+pode-se perceber que existem pelo menos outras 4
+grandes classes de línguas faladas aqui no Brasil,
+as línguas:
 nativas, de imigração, afro-brasileiras e de sinais.
 Mas mesmo dentro do prédio de Letras da UFRJ
 é possível notar a existência de muitos desses casos.
@@ -14,7 +15,7 @@ Durante a noite,
 proximo à lanchonete em frete ao bloco D,
 apelidada por alguns alunos de "Starbucks",
 aglomera-se pessoas a fim de conversar em LIBRAS.
-O curso de Letras-Libras (Noite) da UFRJ
+O curso de Letras-LIBRAS (Noite) da UFRJ
 possui uma grande quantidade
 de pessoas surdas (e também ouvintes) e
 os alunos costumam a ficar lá nos tempos
@@ -23,7 +24,7 @@ entre as aulas.
 Na semana da SIAc, foi apresentado
 um trabalho de <nome-trabalho>
 que apresentava sobre diferênças comportamentais
-nos falantes de falantes do português.
+nos falantes do português
 e de uma língua indígena: <nome-lingua>
 Essa língua é falada na região
 entre Peru <confirmar> e o estado do Acre.
