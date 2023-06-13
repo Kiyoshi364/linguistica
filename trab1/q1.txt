@@ -1,20 +1,20 @@
 Um país monolíngue é um país no qual
 apenas uma língua é falada.
 
-O Brasil não é um país monolíngue.
-Observando a literatura, mais específicamente
+O Brasil não é um país monolíngue;
+observando a literatura, mais específicamente
 o livro texto da disciplina,
 pode-se perceber que existem pelo menos outras 4
 grandes classes de línguas faladas aqui no Brasil,
 as línguas:
 nativas, de imigração, afro-brasileiras e de sinais.
-Mas mesmo dentro do prédio de Letras da UFRJ
-é possível notar a existência de muitos desses casos.
+Mesmo fora da teoria,
+pode-se perceber que dentro do prédio de Letras da UFRJ
+existe de muitos desses casos.
 
-Durante a noite,
-proximo à lanchonete em frete ao bloco D,
-apelidada por alguns alunos de "Starbucks",
-aglomera-se pessoas a fim de conversar em LIBRAS.
+Principalmente durante a noite,
+próximo à lanchonete em frete ao bloco D,
+reúnem-se pessoas a fim de conversar em LIBRAS.
 O curso de Letras-LIBRAS (Noite) da UFRJ
 possui uma grande quantidade
 de pessoas surdas (e também ouvintes) e
@@ -22,15 +22,17 @@ os alunos costumam a ficar lá nos tempos
 entre as aulas.
 
 Na semana da SIAc, foi apresentado
-um trabalho de <nome-trabalho>
-que apresentava sobre diferênças comportamentais
+um trabalho de título
+"O sistema de troca de turnos de fala e
+a medição das pausas inter-turnos em uma iteração transcultural"
+que apresentava sobre diferenças comportamentais
 nos falantes do português
-e de uma língua indígena: <nome-lingua>
+e de uma língua indígena: Kaxinawá.
 Essa língua é falada na região
-entre Peru <confirmar> e o estado do Acre.
+entre Peru e o estado do Acre.
 
 No prédio de Letras existe um curso de português
-que prepara alunos extrangeiros
+que prepara alunos estrangeiros
 participantes do PEC-G
 (Programa Estudante-Convênio de Graduação),
 que são, principalmente, de origem africana,
@@ -39,21 +41,12 @@ para realizar uma prova da Celpe-Bras
 Caso esses alunos passem a prova
 recebem a oportunidade de
 realizar um curso superior aqui no Brasil.
-Entre si, dependendo do país que vieram,
-falam sua língua nacional
-(Francês, Espanhol, Alemão ou outras),
+Entre si falam sua língua nacional
 mas também são capazes de falar
-línguas nativas locais
-(as quais geralmente mudam para cada província).
+línguas nativas locais,
+as quais geralmente mudam para cada província.
 E claro, com outras pessoas e, as vezes entre si,
 falam português.
-
-Ficou faltando achar um grupo
-que falasse uma língua afro-brasileira
-aqui dentro do prédio de Letras,
-mas já foi incrível sentir
-que realmente existem outras línguas faladas
-aqui no Brasil.
 
 Referências:
 - Uma viagem com a linguística um panorama para iniciantes
@@ -61,5 +54,5 @@ Referências:
 - portal.letras.ufrj.br/gradua%C3%A7%C3%A3o/coord-de-rel-internacionais/atividades-da-cri.html
 - Conversas com esses grupos:
   - alunos de Letras-LIBRAS (noite)
-  - o aluno que apresentou na SIAc: <TODO>
+  - o aluno que apresentou na SIAc: Gabriel Henrique
   - alunos do PEC-G (o grupo interagido era do Gabão)
