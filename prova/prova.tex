@@ -1,0 +1,99 @@
+\documentclass{article}
+% \documentclass{ujarticle}
+% \documentclass{jsarticle}
+
+\usepackage[width=14cm, left=3cm, top=3cm, a4paper]{geometry}
+
+\usepackage[brazil]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{indentfirst}
+
+\usepackage{multicol}
+
+% \usepackage{CJKutf8}
+% \newcommand{\jap}[1]{\begin{CJK*}{UTF8}{min}#1\end{CJK*}}
+\newcommand{\jap}[1]{#1}
+
+\usepackage{xeCJK}
+\setCJKmainfont{IPAMincho}[
+    UprightFont=*,
+    BoldFont=IPAPGothic,
+    ItalicFont=*,
+    BoldItalicFont=IPAPGothic
+]
+
+\newcommand{\dekassegui}{\jap{出稼ぎ}}
+\newcommand{\koroniago}{\jap{コロニー語}}
+
+\newcommand{\dre}{119025937}
+\newcommand{\hashi}{Daniel Kiyoshi Hashimoto Vouzella de Andrade}
+
+\newcommand{\mytitle}{Fundamentos da Linguística 2023.1 - 7h30}
+\newcommand{\myauthor}{\hashi{} \\
+    Aluno do Curso de Ciências da Computação \\
+    DRE N\textdegree{} \dre{}
+}
+\date{}
+\newcommand{\makecapa}{
+    \newpage
+    \hfill\par\vfill
+
+    \begin{center}
+        \huge
+        \mytitle{}
+    \end{center}
+
+    \vfill
+
+    \begin{center}
+        \Large
+        \myauthor{}
+    \end{center}
+
+    \vfill
+    \vfill
+    \begin{multicols}{3}
+        \par\hfill \columnbreak
+
+        \par\hfill \columnbreak
+
+        Trabalho entregue à
+        Prof. Maria Carlota Rosa,
+        na disciplina
+        Fundamentos da Linguística,
+        turma 5727,
+        código LEF140.
+    \end{multicols}
+
+    \vfill
+
+    \begin{center}
+        Faculdade de Letras \\
+        Rio de Janeiro, 29 de junho de 2023, \\
+        1\textdegree{} semestre
+    \end{center}
+
+    \pagenumbering{gobble}
+    \newpage
+    \pagenumbering{arabic}
+}
+
+\begin{document}
+\makecapa
+
+before
+\jap{日本語 トムの日本語は少しずつ進歩している。}
+after
+
+\dekassegui{}
+asdf
+\koroniago{}
+
+\setcounter{section}{-1}
+\section{Antes de tudo}
+
+\section{Português como língua materna}
+
+\section{Koronia-go (\koroniago{}) no Japão}
+
+\end{document}
