@@ -18,6 +18,7 @@ pkgs.mkShell rec {
         # collection-xetex
         xecjk
         ctex
+        abntex2
       ;
     })
     # kochi-substitute # MS Mincho and MS Gothic fonts
@@ -29,7 +30,7 @@ pkgs.mkShell rec {
     export PURE="$([[ $IN_NIX_SHELL -eq 'pure' ]] && echo 1 || echo 0)"
     echo '>> Welcome to ${name}! <<'
     echo "PURE=$PURE"
-    build () { xelatex $*; }
+    build () { xelatex $1 && bibtex $1; }
     build2 () { build $* && build $*; }
     view () { zathura $* 2>/dev/null & }
   '';

@@ -8,6 +8,8 @@
 \usepackage[T1]{fontenc}
 \usepackage{indentfirst}
 
+\usepackage{hyperref}
+
 \usepackage{multicol}
 
 % \usepackage{CJKutf8}
@@ -19,8 +21,14 @@
     UprightFont=*,
     BoldFont=IPAPGothic,
     ItalicFont=*,
-    BoldItalicFont=IPAPGothic
+    BoldItalicFont=IPAPGothic,
 ]
+\setCJKmonofont{IPAPGothic}
+
+\newcommand{\todo}[1]{\textbf{TODO:} \textit{#1}}
+\newcommand{\todoinl}[1]{#1}
+
+\newcommand{\keyword}[1]{\textbf{#1}}
 
 \newcommand{\dekassegui}{\jap{出稼ぎ}}
 \newcommand{\koroniago}{\jap{コロニー語}}
@@ -81,19 +89,93 @@
 \begin{document}
 \makecapa
 
-before
-\jap{日本語 トムの日本語は少しずつ進歩している。}
-after
-
-\dekassegui{}
-asdf
-\koroniago{}
-
 \setcounter{section}{-1}
 \section{Antes de tudo}
 
+Logo no prefácio, o livro \cite{filhosdekasegi}
+ressalta que as experiências dos migrantes são heterogêneas;
+assim como suas características, que variam desde
+a motivação, idade, conhecimento da língua e cultura,
+quem vai junto
+-- pode-se ir sozinho, com a família inteira ou
+com apenas parte dela --
+até a legalidade da migração.
+Considerando essa enorme variação entre os dekasseguis,
+é inaceitável pensar que a situação de seus filhos
+sejam homogêneas.
+
+Por isso, não é razoável dizer
+o que \emph{vai} acontecer,
+as respostas podem ser diferentes para pessoas diferentes,
+como foi relatado pelas filhas do sr. Ito, por exemplo.
+No lugar, serão descritas algumas situações
+e, em seguida,
+o que se espera que aconteça
+a partir de cada uma delas.
+
+\todo{falar sobre \koroniago{} \cite{viagemling} e \dekassegui{} brasileiros}
+
 \section{Português como língua materna}
 
+Considerando as crianças muito pequenas
+que foram para o Japão antes de aprender a falar português,
+podemos apontar dois casos
+baseados na língua em que
+os pais decidem se comunicar com a criança:
+japonês e português.
+O primeiro, torna-se bem natural para os pais,
+já prevendo que seu filho vai interagir com
+crianças e adultos japoneses,
+muito provavelmente vai frequêntar uma escola japonesa e
+assim por diante.
+Com essa decisão,
+não haveria um momento em que a criança
+praticaria o português,
+portanto ela nem aprenderia o português,
+e assim o português não teria nenhuma chance de
+ser sua língua materna.
+
+Mesmo que a primeira escolha possa parecer muito atraente,
+a segunda não é impossível:
+muitos dekasseguis chegam ao Japão sem dominar o japonês,
+ou mesmo que dominem podem planejar voltar para o Brasil
+em um futuro próximo.
+Nessa situação, o resultado vai depender bastante
+de o que acontecer durante o desenvolvimento da criança.
+Se crescer num ``ambiente japonês''
+-- escolas, vizinhos e colegas falando em japonês --
+muito provavelmente, no ``melhor'' dos casos,
+o português vai ter características de uma
+\keyword{língua de herança} e
+terá o japonês como outra \keyword{L1}.
+
+Ainda pode crescer imersa num ``ambiente brasileiro'',
+existem comunidades e até bairros inteiros de brasileiros
+\cite{japaoimigrantesbrasileiros} \cite{escolasbrjp}
+\cite{regioesmaisbrjp}
+\cite{videobairrojpcarla} \cite{videobairrojpfernando}
+\cite{videocidadebr}.
+Dessa forma, ainda há a possibilidade de
+ter o português como \keyword{língua materna}
+enquanto sabe pouco ou nada de japonês.
+
+Como um pequeno exemplo,
+em \cite{videobairrojpcarla},
+há fragmentos em que o filho compreende a mãe falando
+em português mas responde em japonês.
+Em um outro vídeo da mesma família \cite{videoramencarla},
+percebe-se que o pai fala em japonês,
+mas em nenhum desses dois vídeos
+o filho falou algo em português,
+dando a entender que sua situação
+se parece mais o primeiro caso.
+
 \section{Koronia-go (\koroniago{}) no Japão}
+
+\newpage
+
+\nocite{*}
+\bibliographystyle{abntex2-num}
+\bibliography{prova}
 
 \end{document}
