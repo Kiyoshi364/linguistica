@@ -2,7 +2,7 @@
 % \documentclass{ujarticle}
 % \documentclass{jsarticle}
 
-\usepackage[width=14cm, left=3cm, top=3cm, a4paper]{geometry}
+\usepackage[a4paper]{geometry}
 
 \usepackage[brazil]{babel}
 \usepackage[T1]{fontenc}
@@ -15,6 +15,7 @@
 % \usepackage{CJKutf8}
 % \newcommand{\jap}[1]{\begin{CJK*}{UTF8}{min}#1\end{CJK*}}
 \newcommand{\jap}[1]{#1}
+\newcommand{\jquote}[1]{「#1」}
 
 \usepackage{xeCJK}
 \setCJKmainfont{IPAMincho}[
@@ -30,8 +31,10 @@
 
 \newcommand{\keyword}[1]{\textbf{#1}}
 
+\newcommand{\phone}[1]{\slash\textit{#1}\slash}
+
 \newcommand{\dekassegui}{\jap{出稼ぎ}}
-\newcommand{\koroniago}{\jap{コロニー語}}
+\newcommand{\koroniago}{\jap{コロニア語}}
 
 \newcommand{\dre}{119025937}
 \newcommand{\hashi}{Daniel Kiyoshi Hashimoto Vouzella de Andrade}
@@ -92,6 +95,22 @@
 \setcounter{section}{-1}
 \section{Antes de tudo}
 
+A palavra importada \keyword{dekassegui}
+vem do japonês \jquote{\dekassegui{}}
+que é usado para se referir a ação de uma pessoa
+sair (significado do ``radical'' 出)
+do seu local de origem,
+antigamente uma província ou agora um país,
+à procura de trabalho ou ganhar dinheiro
+(significado do verbo 稼く).
+Hoje em dia, essa palavra, quando referida a uma pessoa,
+pode ser traduzida
+como `imigrante trabalhador' ou `trabalhador nômade'.
+Já aqui no Brasil, um \keyword{dekassegui brasileiro}
+é um brasileiro que sai do Brasil para o Japão
+buscando trabalhar,
+geralmente apenas `dekassegui' é usado.
+
 Logo no prefácio, o livro \cite{filhosdekasegi}
 ressalta que as experiências dos migrantes são heterogêneas;
 assim como suas características, que variam desde
@@ -107,13 +126,76 @@ sejam homogêneas.
 Por isso, não é razoável dizer
 o que \emph{vai} acontecer,
 as respostas podem ser diferentes para pessoas diferentes,
-como foi relatado pelas filhas do sr. Ito, por exemplo.
-No lugar, serão descritas algumas situações
+como foi relatado pelas filhas do sr. Ito, por exemplo;
+ambas cresceram no Japão,
+mas quando ``retornam'' ao Brasil
+a caçula se adapta melhor e acaba aprendendo português,
+enquanto a mais velha ainda tem grandes dificuldades
+com a nova língua.
+No lugar de dizer o que \emph{vai} acontecer,
+serão descritas algumas situações
 e, em seguida,
 o que se espera que aconteça
 a partir de cada uma delas.
 
-\todo{falar sobre \koroniago{} \cite{viagemling} e \dekassegui{} brasileiros}
+A palavra \keyword{koronia-go} vem de \jquote{\koroniago{}},
+que é a junção de コロニア (\phone{koronia})
+--- transliteração da palavra portuguesa `colônia'
+(observe que o mais próximo do som de \phone{lo},
+no japonês é o som de \phone{ro}) ---
+com o sufixo 語 (nesse caso: \phone{go}),
+usado para dizer a língua de um local,
+por exemplo em \jquote{日本語}
+(\phone{nihongo}, 日本 significa Japão)
+ou \jquote{ポルトガル語}
+(\phone{porutogarugo}, ポルトガル significa Portugal).
+Dessa forma, \keyword{koronia-go} teria como tradução
+a língua da Colônia\footnotemark{}.
+Essa língua, brevemente descrita
+na seção 5.9 de \cite{viagemling},
+é uma variedade do japonês
+com forte presença de palavras \emph{aportuguesadas},
+falado geralmente por
+\keyword{nisseis} e \keyword{sanseis}
+(descendentes de japoneses de segunda/terceira geração ---
+filhos/netos)
+que cresceram no Brasil.
+
+\footnotetext{``Colônia'' aparece captalizada,
+pois se referencia à
+Colônia japonesa no Brasil,
+diferente de uma colônia japonesa
+em um outro lugar.}
+
+Comparativamente,
+\keyword{koronia-go} se assemelha aos
+pequeno ``dialeto'' que alguns jovens conversam entre si,
+no qual se usa o português misturado
+com estrangerismo vindo de jogos eletrônicos,
+muitas vezes incompreensível para pessoas mais velhas.
+São exemplos: \\
+``Eu não \emph{tanko} ficar esse tempo todo na academia''; \\
+``Ela \emph{givou} o namorado para ficar estudando para a prova''; \\
+``O menino só \emph{spawnou} do meu lado; eu tomei um susto''; \\
+A: ``Cadê o seu amigo?'' B: ``Ele \emph{foi de base}''. \\
+Mesmo existindo palavras ou expressões inteiramente do português
+que expressam o mesmo significado,
+os falantes acabam preferindo as versões alternativas
+por serem mais familiares.
+Nesses contextos,
+o verbo \emph{`tanko'} poderia ser substituído
+por `aguento' ou `suporto'
+\cite{tankaruol} \cite{tankarwikti};
+\emph{`givou'} por `abriu mão [de estar com]';
+\emph{`spawnou'} por `apareceu', `surgiu' ou \emph{`brotou'}
+\cite{spawnardicioinf} \cite{spawnarwikti};
+\emph{`foi de base'} por `foi embora',
+`não está mais aqui' ou `está ocupado (fazendo outra coisa)'
+\cite{irdebasehinative} \cite{irdebasewikti} \cite{irdebasedicioinf}.
+Dessas \emph{gírias} a mais famosa é \emph{tankar}.
+Observa-se que elas não são compartilhadas por todos os jovens,
+da mesma forma que o \keyword{koronia-go} não
+é compartilhado por todos os descendentes nipônicos.
 
 \section{Português como língua materna}
 
@@ -172,6 +254,8 @@ se parece mais com uma mistura do primeiro caso
 com o segundo em um ambiente japonês.
 
 \section{Koronia-go (\koroniago{}) no Japão}
+
+\todo{Q2}
 
 \newpage
 
